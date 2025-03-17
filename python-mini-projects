@@ -1,0 +1,44 @@
+# Python Mini Projects Repository
+
+This repository contains multiple beginner-friendly Python mini-projects, including string operations, list and tuple manipulations, and interactive games like Tic-Tac-Toe and Rock-Paper-Scissors.
+
+## Projects Included
+
+### 1. String Operations
+- Reverses a user-input string
+- Converts the string to uppercase and lowercase
+- Counts the number of vowels in the string
+
+### 2. List and Tuple Operations
+- Takes a list of integers as input
+- Finds the largest and smallest numbers
+- Converts the list to a tuple
+- Accesses and prints the third element of the tuple
+
+### 3. Tic-Tac-Toe Mini-Game
+- A simple two-player Tic-Tac-Toe game
+- Uses a 3x3 grid
+- Allows players to take turns and checks for a winner or tie
+
+### 4. Rock-Paper-Scissors Mini-Game
+- User plays against the computer
+- Computer randomly selects rock, paper, or scissors
+- Determines the winner based on standard game rules
+
+## How to Run the Programs
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/python-mini-projects.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd python-mini-projects
+   ```
+3. Run any script using Python:
+   ```bash
+   python script_name.py
+   ```
+
+## Contribution
+Feel free to fork this repository, add your improvements, and submit a pull request!
